@@ -12,7 +12,7 @@ function setup(){
 
     bird1 = new Bird(20,390);
     ground = new Ground(600,height,1200,20)
-    box1 = new Box(700,350,70,70);
+    //box1 = new Box(700,350,70,70);
     box2 = new Box(840,350,70,70);
     box3 = new Box(700,300,70,70);
     box4 = new Box(840,300,70,70);
